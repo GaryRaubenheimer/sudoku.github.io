@@ -1,2 +1,2 @@
 # sudoku.github.io
-Few years ago I created a java based sudoku solver using a backtrack algorithm. I want to recreate it but with reactJS and make it playable then host it on GitHub pages.
+A few years ago, I developed a Java-based sudoku solver using a backtrack algorithm. Now, I aim to recreate it using ReactJS, making it playable and hosting it on GitHub pages. This project will serve as a way for me to learn ReactJS, web development, and Git.
